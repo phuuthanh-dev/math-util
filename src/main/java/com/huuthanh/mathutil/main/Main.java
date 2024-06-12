@@ -46,6 +46,11 @@ public class Main {
 //        // Hy vong se thay ngoai le xuat hien
 //    }
     
+    // this method is written in local
+    public static void SayHiFromLocal() {
+        
+    }
+    
     public static void main(String[] args) {
         // TEST CASE 1: 0! => 1
         int n = 0 ;

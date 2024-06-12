@@ -45,6 +45,12 @@ public class Main {
 //        actualValue = MathUtility.getFactorial(n);
 //        // Hy vong se thay ngoai le xuat hien
 //    }
+
+    // this method is written directly in server to simulate
+    // the work of another team member, he uploads code before me
+    public static void SayHiFromServer() {
+        
+    }
     
     public static void main(String[] args) {
         // TEST CASE 1: 0! => 1
